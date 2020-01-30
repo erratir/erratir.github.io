@@ -1,14 +1,14 @@
 title: Web developer
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "./images/logo.png?raw=true" # your photo (or logo) here
 description: >
   •	HTML, CSS
   <br><br>
-  • JavaScript, TypeScript 
+  • JavaScript, TypeScript
   <br><br>
   •	React, Redux
   <br><br>
   •	TDD, Jest, Enzyme, Mocha, Chai
   <br><br>
-  •	Node.js, MongoDB, MySQL  
-  
+  •	Node.js, MongoDB, MySQL
+
 theme: jekyll-theme-minimal
