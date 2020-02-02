@@ -1,5 +1,11 @@
 ## Портфолио
 
+### Проекты на Vue (+Vuex +Quasar) (в разработке) 
+
+#### Почтовый клиент [демо](/mail-app_vue) / [код](https://github.com/erratir/mail-app_vue)
+<img src="images/mail-app_vue.png?raw=true"/>
+
+
 ---
 
 ### Проекты на React (в разработке) 
