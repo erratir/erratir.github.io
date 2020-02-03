@@ -5,7 +5,6 @@
 #### Почтовый клиент [демо](/mail-app_vue) / [код](https://github.com/erratir/mail-app_vue)
 <img src="images/mail-app_vue.png?raw=true"/>
 
-
 ---
 
 ### Проекты на React (в разработке) 
@@ -26,15 +25,21 @@
 
 ---
 #### Kekstagram [демо](/kekstagram) / [код](https://github.com/erratir/kekstagram)
+* загрузка фото и применение к нему фильтров
 <img src="images/kekstagram.png?raw=true"/>
 
 ---
 
 #### Keksobooking [демо](/keksobooking) / [код](https://github.com/erratir/keksobooking)
+* перемещение маркера
+* загрузка фото
 <img src="images/keksobuking.png?raw=true"/>
 
 ---
 #### Код и магия [демо](/code-and-magick) / [код](https://github.com/erratir/code-and-magick-master)
+* отрисовка результатов - canvas 
+* клик на аватарке вызывает меню персонажа (drag&drop звездочки, загрузка аватарки, изменение внешнего вида по клику на мантии, глазах, фаерболу) 
+* управление: огонь = шифт, перемещение = стрелки клавиатуры
 <img src="images/code-and-magick.png?raw=true"/>
 
 ---
